@@ -89,7 +89,7 @@ div.beloved:after {
   width: 100vmin;
   height: 100vmin;
   top: 30vmin;
-  left: 28vmin;
+  left: 31vmin;
   z-index: 50;
   display: flex;
   position: absolute;
@@ -99,7 +99,7 @@ div.beloved:after {
   text-align: center;
   line-height: 1.1;
   color: #ffffff;
-  opacity: 0.38;
+  opacity: 0.65;
   font-family: "Architects Daughter", cursive;
   font-size: 12vmin;
 }
